@@ -4,8 +4,9 @@
 
 <!-- <h3 align='center'>Front-end developer in Spain</h3> -->
 
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning JavaScript and React
+- 👀 Hi there! I'm a passionate developer with experience in both backend Java and frontend React development.
+- 🌱 Currently expanding my skillset with Azure AI fundamentals.
+- Always learning and building! Let's connect!
 
 <!--
 <h2>Tools I use:<h2>
