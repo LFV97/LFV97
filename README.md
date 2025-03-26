@@ -17,15 +17,4 @@ I'm a junior full-stack developer and digital artist from Madrid, currently focu
 🔹 I'm passionate about technology, visual storytelling, and game development. In the future, I aim to specialize as a Technical Artist, combining code and creativity.
 
 📌 [My portfolio website](https://www.lfv-dev.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/laura-frías-viana/)
-
-<!--
-<h2>Tools I use:<h2>
-  - Figma
-  - Adobe XD
-  - 
--->
-<!---
-LFV97/LFV97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 [LinkedIn](https://www.linkedin.com/in/laura-frias-viana/)
